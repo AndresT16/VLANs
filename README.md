@@ -11,4 +11,5 @@ Lab1
   name (nombre)
 ```
 Lab2
+
 ![Lab2](Lab2.PNG)
