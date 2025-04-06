@@ -1,2 +1,2 @@
 # VLANs
-Lab1 (Lab1.png)
+Lab1 (Lab1.PNG)
