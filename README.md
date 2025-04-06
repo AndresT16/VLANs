@@ -10,3 +10,4 @@ Lab1
   vlan (numero de vlan)
   name (nombre)
 ```
+![Lab2](Lab2.PNG)
