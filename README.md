@@ -1,2 +1,2 @@
 # VLANs
-Diferentes configuraciones de vlans en equipos cisco.
+Lab1 
